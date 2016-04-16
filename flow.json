@@ -1,0 +1,1 @@
+[{"id":"e21a3b4a.68fc98","type":"http request","z":"79b7a131.22b4f","name":"","method":"GET","url":"http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.csv","x":139,"y":134.00003051757812,"wires":[["ea22d9ee.285438"]]}]
