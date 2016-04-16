@@ -4,6 +4,7 @@
 
 Gets the earthquake report from USGS (last day > magnitude 4.5) - and creates one message per quake with time, lat, lon, depth, magnitude and array that detected it.
 
+flow.jsonをNode-REDからimportしてください。
 
 その他のデータはこちら
 http://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php
